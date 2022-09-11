@@ -1,0 +1,9 @@
+.receiver {
+    text-align:center;
+    position: relative;
+}
+
+.profile {
+    position: absolute;
+    bottom: 0px;
+}
